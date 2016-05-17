@@ -8,6 +8,7 @@ A hashtag is defined as any word attached to the prefix character '#' that is us
 We introduce the novel benchmark for image hashtag recommendation, titled HARRISON, or the HAshtag Recommendation for Real-world Images in SOcial Networks. The HARRISON dataset is a realistic dataset, composed of 57,383 photos from Instagram and an average of 4.5 associated hashtags for each photo (minimum 1 and maximum 10). The ground truth hashstags for each image are made up of the 1,000 most frequently used hashtags, encoded with numbers based on frequency ranking results.
 
 ## Overview
+![Diagram](https://github.com/minstone/HARRISON-Dataset/blob/master/overview.png)
 
 ## Citation
 Please cite in your publications if it helps your research:
