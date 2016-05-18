@@ -13,9 +13,10 @@ We introduce the novel benchmark for image hashtag recommendation, titled HARRIS
 ## Citation
 Please cite in your publications if it helps your research:
 
-    @article{,
-      Author = {},
-      Journal = {},
-      Title = {},
-      Year = {}
+    @misc{1605.05054,
+    Author = {Minseok Park and Hanxiang Li and Junmo Kim},
+    Title = {HARRISON: A Benchmark on HAshtag Recommendation for Real-world Images in Social Networks},
+    Year = {2016},
+    Eprint = {arXiv:1605.05054},
     }
+
